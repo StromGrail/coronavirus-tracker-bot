@@ -1,0 +1,22 @@
+{"StateName": "Andhra Pradesh", "TotalIndian": 3, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Chhattisgarh", "TotalIndian": 1, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Delhi", "TotalIndian": 25, "TotalForeign": 1, "TotalCured": 5, "TotalDeath": 1}
+{"StateName": "Gujarat", "TotalIndian": 7, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Haryana", "TotalIndian": 3, "TotalForeign": 14, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Himachal Pradesh", "TotalIndian": 2, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Karnataka", "TotalIndian": 15, "TotalForeign": 0, "TotalCured": 1, "TotalDeath": 1}
+{"StateName": "Kerala", "TotalIndian": 33, "TotalForeign": 7, "TotalCured": 3, "TotalDeath": 0}
+{"StateName": "Madhya Pradesh", "TotalIndian": 4, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Maharashtra", "TotalIndian": 60, "TotalForeign": 3, "TotalCured": 0, "TotalDeath": 1}
+{"StateName": "Odisha", "TotalIndian": 2, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Puducherry", "TotalIndian": 1, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Punjab", "TotalIndian": 13, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 1}
+{"StateName": "Rajasthan", "TotalIndian": 15, "TotalForeign": 2, "TotalCured": 3, "TotalDeath": 0}
+{"StateName": "Tamil Nadu", "TotalIndian": 3, "TotalForeign": 0, "TotalCured": 1, "TotalDeath": 0}
+{"StateName": "Telengana", "TotalIndian": 10, "TotalForeign": 11, "TotalCured": 1, "TotalDeath": 0}
+{"StateName": "Chandigarh", "TotalIndian": 1, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Jammu and Kashmir", "TotalIndian": 4, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Ladakh", "TotalIndian": 13, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Uttar Pradesh", "TotalIndian": 23, "TotalForeign": 1, "TotalCured": 9, "TotalDeath": 0}
+{"StateName": "Uttarakhand", "TotalIndian": 3, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "West Bengal", "TotalIndian": 3, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
