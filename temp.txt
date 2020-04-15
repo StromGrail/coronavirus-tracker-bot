@@ -1,22 +1,33 @@
-{"StateName": "Andhra Pradesh", "TotalIndian": 3, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Chhattisgarh", "TotalIndian": 1, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Delhi", "TotalIndian": 25, "TotalForeign": 1, "TotalCured": 5, "TotalDeath": 1}
-{"StateName": "Gujarat", "TotalIndian": 7, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Haryana", "TotalIndian": 3, "TotalForeign": 14, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Himachal Pradesh", "TotalIndian": 2, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Karnataka", "TotalIndian": 15, "TotalForeign": 0, "TotalCured": 1, "TotalDeath": 1}
-{"StateName": "Kerala", "TotalIndian": 33, "TotalForeign": 7, "TotalCured": 3, "TotalDeath": 0}
-{"StateName": "Madhya Pradesh", "TotalIndian": 4, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Maharashtra", "TotalIndian": 60, "TotalForeign": 3, "TotalCured": 0, "TotalDeath": 1}
-{"StateName": "Odisha", "TotalIndian": 2, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Puducherry", "TotalIndian": 1, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Punjab", "TotalIndian": 13, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 1}
-{"StateName": "Rajasthan", "TotalIndian": 15, "TotalForeign": 2, "TotalCured": 3, "TotalDeath": 0}
-{"StateName": "Tamil Nadu", "TotalIndian": 3, "TotalForeign": 0, "TotalCured": 1, "TotalDeath": 0}
-{"StateName": "Telengana", "TotalIndian": 10, "TotalForeign": 11, "TotalCured": 1, "TotalDeath": 0}
-{"StateName": "Chandigarh", "TotalIndian": 1, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Jammu and Kashmir", "TotalIndian": 4, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Ladakh", "TotalIndian": 13, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "Uttar Pradesh", "TotalIndian": 23, "TotalForeign": 1, "TotalCured": 9, "TotalDeath": 0}
-{"StateName": "Uttarakhand", "TotalIndian": 3, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
-{"StateName": "West Bengal", "TotalIndian": 3, "TotalForeign": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Andhra Pradesh", "TotalIndian": 483, "TotalCured": 16, "TotalDeath": 9}
+{"StateName": "Andaman and Nicobar Islands", "TotalIndian": 11, "TotalCured": 10, "TotalDeath": 0}
+{"StateName": "Arunachal Pradesh", "TotalIndian": 1, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Assam", "TotalIndian": 32, "TotalCured": 0, "TotalDeath": 1}
+{"StateName": "Bihar", "TotalIndian": 66, "TotalCured": 29, "TotalDeath": 1}
+{"StateName": "Chandigarh", "TotalIndian": 21, "TotalCured": 7, "TotalDeath": 0}
+{"StateName": "Chhattisgarh", "TotalIndian": 33, "TotalCured": 13, "TotalDeath": 0}
+{"StateName": "Delhi", "TotalIndian": 1561, "TotalCured": 30, "TotalDeath": 30}
+{"StateName": "Goa", "TotalIndian": 7, "TotalCured": 5, "TotalDeath": 0}
+{"StateName": "Gujarat", "TotalIndian": 650, "TotalCured": 59, "TotalDeath": 28}
+{"StateName": "Haryana", "TotalIndian": 199, "TotalCured": 34, "TotalDeath": 3}
+{"StateName": "Himachal Pradesh", "TotalIndian": 33, "TotalCured": 13, "TotalDeath": 1}
+{"StateName": "Jammu and Kashmir", "TotalIndian": 278, "TotalCured": 30, "TotalDeath": 4}
+{"StateName": "Jharkhand", "TotalIndian": 27, "TotalCured": 0, "TotalDeath": 2}
+{"StateName": "Karnataka", "TotalIndian": 260, "TotalCured": 71, "TotalDeath": 10}
+{"StateName": "Kerala", "TotalIndian": 387, "TotalCured": 211, "TotalDeath": 3}
+{"StateName": "Ladakh", "TotalIndian": 17, "TotalCured": 10, "TotalDeath": 0}
+{"StateName": "Madhya Pradesh", "TotalIndian": 730, "TotalCured": 51, "TotalDeath": 50}
+{"StateName": "Maharashtra", "TotalIndian": 2687, "TotalCured": 259, "TotalDeath": 178}
+{"StateName": "Manipur", "TotalIndian": 2, "TotalCured": 1, "TotalDeath": 0}
+{"StateName": "Meghalaya", "TotalIndian": 1, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Mizoram", "TotalIndian": 1, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Nagaland#", "TotalIndian": 0, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Odisha", "TotalIndian": 60, "TotalCured": 18, "TotalDeath": 1}
+{"StateName": "Puducherry", "TotalIndian": 7, "TotalCured": 1, "TotalDeath": 0}
+{"StateName": "Punjab", "TotalIndian": 176, "TotalCured": 14, "TotalDeath": 12}
+{"StateName": "Rajasthan", "TotalIndian": 969, "TotalCured": 147, "TotalDeath": 3}
+{"StateName": "Tamil Nadu", "TotalIndian": 1204, "TotalCured": 81, "TotalDeath": 12}
+{"StateName": "Telengana", "TotalIndian": 624, "TotalCured": 100, "TotalDeath": 17}
+{"StateName": "Tripura", "TotalIndian": 2, "TotalCured": 0, "TotalDeath": 0}
+{"StateName": "Uttarakhand", "TotalIndian": 37, "TotalCured": 9, "TotalDeath": 0}
+{"StateName": "Uttar Pradesh", "TotalIndian": 660, "TotalCured": 50, "TotalDeath": 5}
+{"StateName": "West Bengal", "TotalIndian": 213, "TotalCured": 37, "TotalDeath": 7}

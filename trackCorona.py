@@ -34,9 +34,8 @@ class CoronaNotification():
 				
 				currentData = json.dumps({"StateName": str(row[index+1].contents[0]),
 								"TotalIndian":  	   int(row[index+2].contents[0]),
-								"TotalForeign": 	   int(row[index+3].contents[0]),
-								"TotalCured":   	   int(row[index+4].contents[0]),
-								"TotalDeath":   	   int(row[index+5].contents[0])
+								"TotalCured":   	   int(row[index+3].contents[0]),
+								"TotalDeath":   	   int(row[index+4].contents[0])
 								})
 				
 				tempFile.write(currentData+'\n')
@@ -45,7 +44,7 @@ class CoronaNotification():
 					isDataChanged=True
 					updatedValue += json.loads(currentData)["StateName"]+', '
 
-				index+=6
+				index+=5
 			tempFile.close()
 			historyFile.close()
 
